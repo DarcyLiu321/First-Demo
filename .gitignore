@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+src/videos/winter.mp4
+src/videos/summer.mp4
+src/videos/spring.mp4
+src/videos/autumn.mp4
+src/images/background.png
